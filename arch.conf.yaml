@@ -27,10 +27,7 @@
     ~/.zshrc: rc/zshrc
     ~/.gitconfig: gitconfig
     ~/.gitignore: gitignore
-    ~/.antigen:
-      force: true
-      relink: true
-      path: antigen/
+    ~/.antigen/antigen.zsh: antigen/antigen.zsh
     ~/.zsh_custom:
       force: true
       relink: true
