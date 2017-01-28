@@ -27,10 +27,10 @@
     ~/.zshrc: rc/zshrc
     ~/.gitconfig: gitconfig
     ~/.gitignore: gitignore
-    ~/.oh-my-zsh:
+    ~/.antigen:
       force: true
       relink: true
-      path: oh-my-zsh/
+      path: antigen/
     ~/.zsh_custom:
       force: true
       relink: true
