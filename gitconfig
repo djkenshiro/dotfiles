@@ -1,6 +1,6 @@
 [user]
-	name = Martin Friedrich
-	email = npanic@kmpt.nz
+	name = Andreas Ländler
+	email = djkenshiro@outlook.com
 [core]
 	editor = nano
 	excludesfile = ~/.gitignore
